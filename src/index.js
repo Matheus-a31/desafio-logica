@@ -1,24 +1,3 @@
-//clasificador de nível de herói
-
-// variavel nome, nomeDoHeroiEXpDoHeroi[1] e nivel do heroi
-
-/*
-xp < 1000 = Ferro
-xp 2000< experiencia >=1001 = Bronze
-xp 5000< experiencia >=2001 = Prata 
-xp 7000 experiencia >=5001 = Ouro
-xp 8000< experiencia >=7001 = Platina Diamante
-xp 9000< experiencia >=8001 = Ascendente
-xp 10000< experiencia >=9001 = Imortal
-xp >=10001 = Radiante
-*/
-
-//saida
-
-/*
-"O Herói de nome **{nome}** está no nível de **{nivelDoHeroi}**"
-*/
-
 let nomeDoHeroiEXpDoHeroi = [
 ["Matheus", "joão", "Vitor"], //linha 0 =  nomes
 [11000, 2000, 5002]  //linha 1 =  xp
